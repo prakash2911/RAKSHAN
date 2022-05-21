@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072353988093",
+    "project_id": "rashkan-dcca1",
+    "storage_bucket": "rashkan-dcca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072353988093:android:f5aef8754611a869f49d94",
+        "android_client_info": {
+          "package_name": "com.example.raskhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072353988093-rrpiod8q7t6je0lbc47ol9eh5oaqvdd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXqBa0CyTsxoc9c86xM0FMPvkpLqJzdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072353988093-rrpiod8q7t6je0lbc47ol9eh5oaqvdd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
